@@ -1,6 +1,6 @@
-### 😎 Hi Folks
+# 😎 Hi Folks
 
-I am a FullStack developer from Tashkent / Uzbekistan.
+## I am a FullStack developer from Tashkent / Uzbekistan.
 
 My skills:
 - Reactjs
