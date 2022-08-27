@@ -1,6 +1,15 @@
-### Hi Folks
+### 😎 Hi Folks
 
 I am a FullStack developer from Tashkent / Uzbekistan.
+
+My skills:
+- Reactjs
+- HTML / CSS
+- Vanillajs
+- Nodejs
+- Expressjs
+- Mongodb
+- RESTful apis
 
 <!--
 **mirzaahmedov/mirzaahmedov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
