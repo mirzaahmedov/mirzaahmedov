@@ -6,7 +6,7 @@
 A highly motivated and skilled Front-end Developer with 1 year of experience working with technologies such as React, React Redux, Redux Toolkit, Axios, Tailwind, Styled-components, React Query and Framer Motion. Currently a 3rd year student at Tashkent State Technical University. Strong understanding of web development principles and experienced in Go programming language.
 
 # Education:
-- Tashkent State Technical University, Computer Science, (Expected graduation date 2023)
+- 🎓Tashkent State Technical University, Computer Science, (Expected graduation date 2023)
 
 # Work Experience:
 - Front-end Developer (2022-2023)
