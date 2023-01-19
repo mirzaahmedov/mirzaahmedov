@@ -9,7 +9,7 @@ A highly motivated and skilled Front-end Developer with 1 year of experience wor
 - 🎓Tashkent State Technical University, Computer Science, (Expected graduation date 2023)
 
 # Work Experience:
-- Front-end Developer (2022-2023)
+- Front-end Developer (2021-2023)
     - Developed and maintained web applications using React, React Redux, Redux Toolkit, Axios, Tailwind, Styled-components, React Query and Framer Motion
     - Collaborated with cross-functional teams to deliver high-quality and user-friendly web applications
     - Implemented responsive design principles to ensure compatibility across different devices
