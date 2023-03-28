@@ -13,4 +13,4 @@ Developed and maintained web applications using React, React Redux, Redux Toolki
 Collaborated with cross-functional teams to deliver high-quality and user-friendly web applications
 Implemented responsive design principles to ensure compatibility across different devices
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/mirzaahmedov?font=Dancing_Script&ext=activity)](https://leetcode.com/mirzaahmedov)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=mirzaahmedov)](https://leetcode.com/mirzaahmedov)
