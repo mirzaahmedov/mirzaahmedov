@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Bekzod</h1>
+
 # Personal Information:
 - Name: Mirzaahmedov Bekzod
 - Age: 21 years old
