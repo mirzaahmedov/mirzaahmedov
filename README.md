@@ -18,23 +18,6 @@
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=mirzaahmedov)](https://leetcode.com/mirzaahmedov)
 
-<h4>OS and Tools</h4>
-<p align="center">
-  <a><img height="100" src="https://simpleicons.org/icons/go.svg" alt="react icon" ></a>
-  <a><img height="100" src="https://simpleicons.org/icons/linux.svg" alt="react icon" ></a>
-  <a><img height="100" src="https://simpleicons.org/icons/neovim.svg" alt="react icon" ></a>
-</p>
-<h4>Frontend</h4>
-<p align="center">
-  <a><img height="100" src="https://simpleicons.org/icons/react.svg" alt="react icon" ></a>
-  <a><img height="100" src="https://simpleicons.org/icons/reactquery.svg" alt="react icon" ></a>
-  <a><img height="100" src="https://simpleicons.org/icons/tailwindcss.svg" alt="react icon" ></a>
-  <a><img height="100" src="https://simpleicons.org/icons/redux.svg" alt="react icon" ></a>
-<p>
-<h4>Backend</h4>
-<p align="center">
-  <a><img height="100" src="https://simpleicons.org/icons/javascript.svg" alt="react icon" ></a>
-  <a><img height="100" src="https://simpleicons.org/icons/typescript.svg" alt="react icon" ></a>
-  <a><img height="100" src="https://simpleicons.org/icons/nodedotjs.svg" alt="react icon" ></a>
-  <a><img height="100" src="https://simpleicons.org/icons/docker.svg" alt="react icon" ></a>
-<p>
+<h3>Tools and Skills</h3>
+
+![My Skills](https://skillicons.dev/icons?i=figma,git,js,ts,astro,vue,svelte,react,materialui,redux,tailwindcss,golang,docker,nodejs,postman,express,bash,linux,neovim,arduino)
