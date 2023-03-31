@@ -5,7 +5,7 @@
 <br>
 
 <h3>Who am I</h3>
-<p>A highly motivated and skilled Front-end Developer with 1 year of experience working with technologies such as React, React Redux, Redux Toolkit, Axios, Tailwind, Styled-components, React Query and Framer Motion. Currently a 3rd year student at Tashkent State Technical University. Strong understanding of web development principles and experienced in Go programming language.</p>
+<p>A highly motivated and skilled Front-end Developer with experience working with technologies such as React, React Redux, Redux Toolkit, Axios, Tailwind, Styled-components, React Query and Framer Motion. Currently a 3rd year student at Tashkent State Technical University. Strong understanding of web development principles. Big fan of Go programming language.</p>
 
 <br>
 
