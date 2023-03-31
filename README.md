@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, My name is Bekzod</h1>
-
-<p align="center"><sub>I am React, Typescript and Golang developer from Uzbekistan</sub></p>
+<p align="center">I am React, Typescript and Golang developer from Uzbekistan</p>
 
 <br>
 <br>
