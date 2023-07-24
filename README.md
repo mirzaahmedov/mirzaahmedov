@@ -10,8 +10,8 @@ A highly motivated and skilled Front-end Developer with experience working with 
 <br>
 
 ### Github Statistics
-![](https://raw.githubusercontent.com/mirzaahmedov/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/mirzaahmedov/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mirzaahmedov/github-stats/master/generated/overview.svgy)
+![](https://raw.githubusercontent.com/mirzaahmedov/github-stats/master/generated/languages.svg)
 
 ### LeetCode Statistics
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=mirzaahmedov)](https://leetcode.com/mirzaahmedov)
