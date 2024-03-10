@@ -14,7 +14,6 @@ A highly motivated and skilled Front-end Developer with experience working with 
 ![](https://raw.githubusercontent.com/mirzaahmedov/github-stats/master/generated/languages.svg)
 
 ### LeetCode Statistics
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=mirzaahmedov)](https://leetcode.com/mirzaahmedov)
-
+![Mirzaahmedov's Leetcode stats](https://leetcard.jacoblin.cool/mirzaahmedov?ext=activity&theme=wtf)
 ### Tools and Skills
 ![My Skills](https://skillicons.dev/icons?i=figma,git,js,ts,astro,vue,svelte,react,materialui,redux,tailwindcss,golang,docker,nodejs,postman,express,bash,linux,neovim,arduino)
