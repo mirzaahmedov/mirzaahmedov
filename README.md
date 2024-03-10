@@ -9,10 +9,6 @@ A highly motivated and skilled Front-end Developer with experience working with 
 
 <br>
 
-### Github Statistics
-![](https://raw.githubusercontent.com/mirzaahmedov/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/mirzaahmedov/github-stats/master/generated/languages.svg)
-
 ### LeetCode Statistics
 ![Mirzaahmedov's Leetcode stats](https://leetcard.jacoblin.cool/mirzaahmedov?ext=activity&theme=wtf)
 ### Tools and Skills
